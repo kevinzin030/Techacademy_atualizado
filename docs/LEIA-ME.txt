@@ -1,0 +1,15 @@
+TECHACADEMY — VERSÃO CONSOLIDADA
+
+Execução: extraia os arquivos, abra a pasta no VS Code e execute index.html pelo Live Server.
+
+Separação de responsabilidades:
+- HTML: estrutura das páginas e templates de componentes.
+- css/styles.css: estilos, estados visuais e responsividade.
+- js/login.js: interações da tela de acesso.
+- js/app-aluno.js: funcionalidades do painel do aluno.
+- js/app-professor.js: funcionalidades do painel do professor.
+- js/mobile-menu.js: comportamento do menu hambúrguer.
+
+Funcionalidades do protótipo: aulas e materiais, edição/publicação de quizzes por aula, datas e notificações no painel do aluno, menu mobile e persistência em localStorage.
+
+Importante: os dados ficam neste navegador e nesta origem. Para testar professor e aluno com os mesmos dados, abra ambos pelo mesmo endereço do Live Server. Não há notificações push quando o site está fechado. Parte do visual depende de Tailwind CDN, Font Awesome e Google Fonts.
