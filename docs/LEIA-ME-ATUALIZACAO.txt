@@ -1,0 +1,10 @@
+TECHACADEMY — AULAS, PDF E QUIZZES
+
+- Aulas aparecem em cartões na disciplina do aluno.
+- PDFs anexados podem ser visualizados e baixados.
+- Cada quiz abre em uma tela separada pelo botão “Acessar quiz”.
+- O professor pode criar perguntas com quatro alternativas e selecionar a resposta correta.
+- O quiz pode ser vinculado a uma aula ou ser geral da disciplina.
+- Disciplinas, aulas, arquivos e quizzes usam localStorage no mesmo navegador.
+
+IMPORTANTE: esta é uma simulação sem API ou banco de dados. Para compartilhar dados entre os painéis, abra o projeto pelo mesmo endereço de servidor local (por exemplo, VS Code + Live Server), e não por caminhos file:// diferentes. PDFs são armazenados localmente e há limite de tamanho. Para uso real em vários dispositivos, será necessário backend e armazenamento no servidor.
